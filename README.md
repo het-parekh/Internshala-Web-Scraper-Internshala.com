@@ -1,7 +1,7 @@
 # Web-Scraper-Internshala.com [Python 3.7+]
   >Last Updated on 19/09/2020
   
-![Internshala Logo](https://internshala.com/static/images/common/new_internshala_logo.svg)
+![Internshala Logo](https://github.com/het-parekh/Web-Scraper-Internshala.com/blob/master/Screenshots/Internshala%20logo.jpg)
 
 ### Third Party Libraries Required :
 1. requests [To fetch the Url content ]
@@ -73,7 +73,8 @@ Different pages on different sheets?(Default: Yes) | 1: No
 Enter the name of the file
 Web_Dev
 ```
-![Excel File](relative)
+![Excel File 1](https://github.com/het-parekh/Web-Scraper-Internshala.com/blob/master/Screenshots/Screenshot%201.png)
+![Excel File 2](https://github.com/het-parekh/Web-Scraper-Internshala.com/blob/master/Screenshots/Screenshot%202.png)
 
 
 
