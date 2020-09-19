@@ -26,11 +26,11 @@
 - Location
 - Duration
 - Stripend
-- Last to apply 
+- Last Date to apply 
 - Number of applicants who have applied
 - Skills Required
 - Perks Provided
-- Number of opneings
+- Number of openings
 - Link to that internship
 
 ### How to use it :
