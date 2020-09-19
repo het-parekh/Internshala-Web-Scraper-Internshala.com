@@ -5,7 +5,7 @@
 
 ### Third Party Libraries Required :
 1. requests [To fetch the Url content ]
-2. BeautifulSoup [Library used for web scraping]
+2. BeautifulSoup4 [Library used for web scraping]
 3. xlwt [To export the data to a Excel File with multiple sheets]
 
 
